@@ -29,6 +29,7 @@ Repository này lưu trữ các báo cáo, tài liệu nghiên cứu và đồ �
 ---
 
 ## 🛠 Công cụ & Kỹ thuật liên quan (Tech & Tools)
+* **OS:** Windows Server 2019/, Linux (Ubuntu, Redhat, kali)
 * **Pentesting & Security:** Burp Suite, OWASP ZAP, Nmap, Metasploit, Wireshark.
 * **Network & Wireless:** GNS3, VMware, pfSense, Wireless Security Protocols (WPA2/WPA3).
 * **Monitoring & Analytics:** Telegram Chatbot integration, Log Analysis, Threat Hunting tactics.
